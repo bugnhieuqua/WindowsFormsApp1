@@ -75,7 +75,6 @@
             this.lbl3.Size = new System.Drawing.Size(253, 85);
             this.lbl3.TabIndex = 0;
             this.lbl3.Text = "       Hello!\r\nLOGIN, please!!";
-            this.lbl3.Click += new System.EventHandler(this.lbl1_Click);
             // 
             // btt1
             // 
@@ -111,7 +110,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form1
             // 
