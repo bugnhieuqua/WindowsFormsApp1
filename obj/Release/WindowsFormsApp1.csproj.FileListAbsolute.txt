@@ -13,3 +13,4 @@ D:\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
 D:\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
 D:\WindowsFormsApp1\bin\Release\System.Data.SQLite.dll
 D:\WindowsFormsApp1\obj\Release\WindowsF.A1EEDF9B.Up2Date
+D:\WindowsFormsApp1\bin\Release\System.Data.SQLite.xml
