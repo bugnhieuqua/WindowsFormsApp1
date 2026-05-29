@@ -73,47 +73,43 @@
             // 
             // label3
             // 
-            this.label3.Location = new System.Drawing.Point(1263, 34);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(947, 28);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(31, 650);
+            this.label3.Size = new System.Drawing.Size(23, 528);
             this.label3.TabIndex = 82;
             this.label3.Tag = "chan";
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(7, 34);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(5, 28);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(31, 650);
+            this.label2.Size = new System.Drawing.Size(23, 528);
             this.label2.TabIndex = 81;
             this.label2.Tag = "chan";
             // 
             // label4
             // 
-            this.label4.Location = new System.Drawing.Point(-1, 684);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(-1, 556);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(1295, 28);
+            this.label4.Size = new System.Drawing.Size(971, 23);
             this.label4.TabIndex = 80;
             this.label4.Tag = "chan";
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(3, 6);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(2, 5);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1295, 28);
+            this.label1.Size = new System.Drawing.Size(971, 23);
             this.label1.TabIndex = 79;
             this.label1.Tag = "chan";
             // 
             // ptrb2
             // 
             this.ptrb2.Image = global::WindowsFormsApp1.Properties.Resources.tải_xuống;
-            this.ptrb2.Location = new System.Drawing.Point(45, 341);
-            this.ptrb2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ptrb2.Location = new System.Drawing.Point(34, 277);
+            this.ptrb2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ptrb2.Name = "ptrb2";
-            this.ptrb2.Size = new System.Drawing.Size(85, 81);
+            this.ptrb2.Size = new System.Drawing.Size(64, 66);
             this.ptrb2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptrb2.TabIndex = 78;
             this.ptrb2.TabStop = false;
@@ -122,10 +118,10 @@
             // ptrb1
             // 
             this.ptrb1.Image = global::WindowsFormsApp1.Properties.Resources._709c7e59556dc7d9f02ee9e54093ee6a1;
-            this.ptrb1.Location = new System.Drawing.Point(1221, 594);
-            this.ptrb1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ptrb1.Location = new System.Drawing.Point(916, 483);
+            this.ptrb1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ptrb1.Name = "ptrb1";
-            this.ptrb1.Size = new System.Drawing.Size(35, 34);
+            this.ptrb1.Size = new System.Drawing.Size(26, 28);
             this.ptrb1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptrb1.TabIndex = 77;
             this.ptrb1.TabStop = false;
@@ -135,9 +131,10 @@
             this.lbl14.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl14.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl14.Location = new System.Drawing.Point(314, 535);
+            this.lbl14.Location = new System.Drawing.Point(236, 435);
+            this.lbl14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl14.Name = "lbl14";
-            this.lbl14.Size = new System.Drawing.Size(35, 148);
+            this.lbl14.Size = new System.Drawing.Size(27, 121);
             this.lbl14.TabIndex = 65;
             this.lbl14.Tag = "chan";
             this.lbl14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -147,9 +144,10 @@
             this.lbl6.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl6.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl6.Location = new System.Drawing.Point(531, 140);
+            this.lbl6.Location = new System.Drawing.Point(398, 114);
+            this.lbl6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl6.Name = "lbl6";
-            this.lbl6.Size = new System.Drawing.Size(35, 86);
+            this.lbl6.Size = new System.Drawing.Size(27, 70);
             this.lbl6.TabIndex = 66;
             this.lbl6.Tag = "chan";
             this.lbl6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -159,9 +157,10 @@
             this.lbl32.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl32.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl32.Location = new System.Drawing.Point(430, 34);
+            this.lbl32.Location = new System.Drawing.Point(322, 28);
+            this.lbl32.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl32.Name = "lbl32";
-            this.lbl32.Size = new System.Drawing.Size(35, 86);
+            this.lbl32.Size = new System.Drawing.Size(27, 70);
             this.lbl32.TabIndex = 70;
             this.lbl32.Tag = "chan";
             this.lbl32.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -171,9 +170,10 @@
             this.lbl4.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl4.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl4.Location = new System.Drawing.Point(314, 140);
+            this.lbl4.Location = new System.Drawing.Point(236, 114);
+            this.lbl4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl4.Name = "lbl4";
-            this.lbl4.Size = new System.Drawing.Size(35, 200);
+            this.lbl4.Size = new System.Drawing.Size(27, 163);
             this.lbl4.TabIndex = 68;
             this.lbl4.Tag = "chan";
             this.lbl4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -183,9 +183,10 @@
             this.label26.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.label26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label26.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.label26.Location = new System.Drawing.Point(1093, 191);
+            this.label26.Location = new System.Drawing.Point(820, 155);
+            this.label26.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(35, 132);
+            this.label26.Size = new System.Drawing.Size(27, 108);
             this.label26.TabIndex = 69;
             this.label26.Tag = "chan";
             this.label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -195,9 +196,10 @@
             this.lbl30.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl30.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl30.Location = new System.Drawing.Point(958, 517);
+            this.lbl30.Location = new System.Drawing.Point(718, 420);
+            this.lbl30.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl30.Name = "lbl30";
-            this.lbl30.Size = new System.Drawing.Size(35, 167);
+            this.lbl30.Size = new System.Drawing.Size(27, 136);
             this.lbl30.TabIndex = 76;
             this.lbl30.Tag = "chan";
             this.lbl30.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -207,9 +209,10 @@
             this.lbl28.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl28.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl28.Location = new System.Drawing.Point(1093, 421);
+            this.lbl28.Location = new System.Drawing.Point(820, 342);
+            this.lbl28.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl28.Name = "lbl28";
-            this.lbl28.Size = new System.Drawing.Size(35, 149);
+            this.lbl28.Size = new System.Drawing.Size(27, 121);
             this.lbl28.TabIndex = 71;
             this.lbl28.Tag = "chan";
             this.lbl28.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -219,9 +222,10 @@
             this.lbl29.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl29.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl29.Location = new System.Drawing.Point(785, 517);
+            this.lbl29.Location = new System.Drawing.Point(589, 420);
+            this.lbl29.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl29.Name = "lbl29";
-            this.lbl29.Size = new System.Drawing.Size(35, 166);
+            this.lbl29.Size = new System.Drawing.Size(27, 135);
             this.lbl29.TabIndex = 72;
             this.lbl29.Tag = "chan";
             this.lbl29.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -231,9 +235,10 @@
             this.lbl26.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl26.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl26.Location = new System.Drawing.Point(132, 34);
+            this.lbl26.Location = new System.Drawing.Point(99, 28);
+            this.lbl26.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl26.Name = "lbl26";
-            this.lbl26.Size = new System.Drawing.Size(35, 167);
+            this.lbl26.Size = new System.Drawing.Size(27, 136);
             this.lbl26.TabIndex = 73;
             this.lbl26.Tag = "chan";
             this.lbl26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -243,9 +248,10 @@
             this.lbl21.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl21.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl21.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl21.Location = new System.Drawing.Point(890, 323);
+            this.lbl21.Location = new System.Drawing.Point(668, 262);
+            this.lbl21.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl21.Name = "lbl21";
-            this.lbl21.Size = new System.Drawing.Size(35, 132);
+            this.lbl21.Size = new System.Drawing.Size(27, 108);
             this.lbl21.TabIndex = 74;
             this.lbl21.Tag = "chan";
             this.lbl21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -255,9 +261,10 @@
             this.lbl22.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl22.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl22.Location = new System.Drawing.Point(1015, 34);
+            this.lbl22.Location = new System.Drawing.Point(761, 28);
+            this.lbl22.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl22.Name = "lbl22";
-            this.lbl22.Size = new System.Drawing.Size(35, 132);
+            this.lbl22.Size = new System.Drawing.Size(27, 108);
             this.lbl22.TabIndex = 75;
             this.lbl22.Tag = "chan";
             this.lbl22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -267,9 +274,10 @@
             this.lbl23.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl23.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl23.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl23.Location = new System.Drawing.Point(890, 191);
+            this.lbl23.Location = new System.Drawing.Point(668, 155);
+            this.lbl23.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl23.Name = "lbl23";
-            this.lbl23.Size = new System.Drawing.Size(35, 132);
+            this.lbl23.Size = new System.Drawing.Size(27, 108);
             this.lbl23.TabIndex = 64;
             this.lbl23.Tag = "chan";
             this.lbl23.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -279,9 +287,10 @@
             this.lbl15.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl15.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl15.Location = new System.Drawing.Point(559, 421);
+            this.lbl15.Location = new System.Drawing.Point(419, 342);
+            this.lbl15.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl15.Name = "lbl15";
-            this.lbl15.Size = new System.Drawing.Size(35, 148);
+            this.lbl15.Size = new System.Drawing.Size(27, 121);
             this.lbl15.TabIndex = 67;
             this.lbl15.Tag = "chan";
             this.lbl15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -291,9 +300,10 @@
             this.lbl7.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl7.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl7.Location = new System.Drawing.Point(445, 192);
+            this.lbl7.Location = new System.Drawing.Point(334, 156);
+            this.lbl7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl7.Name = "lbl7";
-            this.lbl7.Size = new System.Drawing.Size(35, 377);
+            this.lbl7.Size = new System.Drawing.Size(27, 307);
             this.lbl7.TabIndex = 44;
             this.lbl7.Tag = "chan";
             this.lbl7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -303,9 +313,10 @@
             this.lbl17.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl17.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl17.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl17.Location = new System.Drawing.Point(655, 421);
+            this.lbl17.Location = new System.Drawing.Point(491, 342);
+            this.lbl17.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl17.Name = "lbl17";
-            this.lbl17.Size = new System.Drawing.Size(35, 263);
+            this.lbl17.Size = new System.Drawing.Size(27, 214);
             this.lbl17.TabIndex = 52;
             this.lbl17.Tag = "chan";
             this.lbl17.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -315,9 +326,10 @@
             this.lbl9.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl9.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl9.Location = new System.Drawing.Point(204, 421);
+            this.lbl9.Location = new System.Drawing.Point(153, 342);
+            this.lbl9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl9.Name = "lbl9";
-            this.lbl9.Size = new System.Drawing.Size(35, 149);
+            this.lbl9.Size = new System.Drawing.Size(27, 121);
             this.lbl9.TabIndex = 45;
             this.lbl9.Tag = "chan";
             this.lbl9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -328,9 +340,10 @@
             this.lbl24.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl24.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl24.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl24.Location = new System.Drawing.Point(1222, 34);
+            this.lbl24.Location = new System.Drawing.Point(916, 28);
+            this.lbl24.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl24.Name = "lbl24";
-            this.lbl24.Size = new System.Drawing.Size(35, 534);
+            this.lbl24.Size = new System.Drawing.Size(27, 434);
             this.lbl24.TabIndex = 46;
             this.lbl24.Tag = "chan";
             this.lbl24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -340,9 +353,10 @@
             this.lbl18.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl18.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl18.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl18.Location = new System.Drawing.Point(655, 34);
+            this.lbl18.Location = new System.Drawing.Point(491, 28);
+            this.lbl18.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl18.Name = "lbl18";
-            this.lbl18.Size = new System.Drawing.Size(35, 192);
+            this.lbl18.Size = new System.Drawing.Size(27, 156);
             this.lbl18.TabIndex = 47;
             this.lbl18.Tag = "chan";
             this.lbl18.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -352,9 +366,10 @@
             this.lbl11.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl11.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl11.Location = new System.Drawing.Point(45, 421);
+            this.lbl11.Location = new System.Drawing.Point(34, 342);
+            this.lbl11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl11.Name = "lbl11";
-            this.lbl11.Size = new System.Drawing.Size(35, 263);
+            this.lbl11.Size = new System.Drawing.Size(27, 214);
             this.lbl11.TabIndex = 48;
             this.lbl11.Tag = "chan";
             this.lbl11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -364,9 +379,10 @@
             this.lbl2.AccessibleRole = System.Windows.Forms.AccessibleRole.Graphic;
             this.lbl2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl2.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl2.Location = new System.Drawing.Point(45, 34);
+            this.lbl2.Location = new System.Drawing.Point(34, 28);
+            this.lbl2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl2.Name = "lbl2";
-            this.lbl2.Size = new System.Drawing.Size(35, 305);
+            this.lbl2.Size = new System.Drawing.Size(27, 248);
             this.lbl2.TabIndex = 49;
             this.lbl2.Tag = "chan";
             this.lbl2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -377,9 +393,10 @@
             this.lbl5.BackColor = System.Drawing.SystemColors.Control;
             this.lbl5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl5.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl5.Location = new System.Drawing.Point(269, 192);
+            this.lbl5.Location = new System.Drawing.Point(202, 156);
+            this.lbl5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl5.Name = "lbl5";
-            this.lbl5.Size = new System.Drawing.Size(297, 34);
+            this.lbl5.Size = new System.Drawing.Size(223, 28);
             this.lbl5.TabIndex = 50;
             this.lbl5.Tag = "chan";
             this.lbl5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -390,9 +407,10 @@
             this.lbl19.BackColor = System.Drawing.SystemColors.Control;
             this.lbl19.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl19.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl19.Location = new System.Drawing.Point(445, 306);
+            this.lbl19.Location = new System.Drawing.Point(334, 249);
+            this.lbl19.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl19.Name = "lbl19";
-            this.lbl19.Size = new System.Drawing.Size(324, 34);
+            this.lbl19.Size = new System.Drawing.Size(244, 28);
             this.lbl19.TabIndex = 51;
             this.lbl19.Tag = "chan";
             this.lbl19.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -403,9 +421,10 @@
             this.lbl16.BackColor = System.Drawing.SystemColors.Control;
             this.lbl16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl16.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl16.Location = new System.Drawing.Point(559, 421);
+            this.lbl16.Location = new System.Drawing.Point(419, 342);
+            this.lbl16.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl16.Name = "lbl16";
-            this.lbl16.Size = new System.Drawing.Size(131, 34);
+            this.lbl16.Size = new System.Drawing.Size(99, 28);
             this.lbl16.TabIndex = 53;
             this.lbl16.Tag = "chan";
             this.lbl16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -416,9 +435,10 @@
             this.lbl31.BackColor = System.Drawing.SystemColors.Control;
             this.lbl31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl31.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl31.Location = new System.Drawing.Point(1102, 535);
+            this.lbl31.Location = new System.Drawing.Point(826, 435);
+            this.lbl31.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl31.Name = "lbl31";
-            this.lbl31.Size = new System.Drawing.Size(155, 34);
+            this.lbl31.Size = new System.Drawing.Size(117, 28);
             this.lbl31.TabIndex = 61;
             this.lbl31.Tag = "chan";
             this.lbl31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -429,9 +449,10 @@
             this.lbl27.BackColor = System.Drawing.SystemColors.Control;
             this.lbl27.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl27.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl27.Location = new System.Drawing.Point(770, 420);
+            this.lbl27.Location = new System.Drawing.Point(578, 341);
+            this.lbl27.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl27.Name = "lbl27";
-            this.lbl27.Size = new System.Drawing.Size(155, 35);
+            this.lbl27.Size = new System.Drawing.Size(117, 29);
             this.lbl27.TabIndex = 54;
             this.lbl27.Tag = "chan";
             this.lbl27.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -442,9 +463,10 @@
             this.lbl3.BackColor = System.Drawing.SystemColors.Control;
             this.lbl3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl3.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl3.Location = new System.Drawing.Point(990, 420);
+            this.lbl3.Location = new System.Drawing.Point(742, 341);
+            this.lbl3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl3.Name = "lbl3";
-            this.lbl3.Size = new System.Drawing.Size(138, 34);
+            this.lbl3.Size = new System.Drawing.Size(104, 28);
             this.lbl3.TabIndex = 55;
             this.lbl3.Tag = "chan";
             this.lbl3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -455,9 +477,10 @@
             this.lbl8.BackColor = System.Drawing.SystemColors.Control;
             this.lbl8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl8.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl8.Location = new System.Drawing.Point(890, 157);
+            this.lbl8.Location = new System.Drawing.Point(668, 128);
+            this.lbl8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl8.Name = "lbl8";
-            this.lbl8.Size = new System.Drawing.Size(160, 34);
+            this.lbl8.Size = new System.Drawing.Size(120, 28);
             this.lbl8.TabIndex = 56;
             this.lbl8.Tag = "chan";
             this.lbl8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -468,9 +491,10 @@
             this.lbl12.BackColor = System.Drawing.SystemColors.Control;
             this.lbl12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl12.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl12.Location = new System.Drawing.Point(45, 306);
+            this.lbl12.Location = new System.Drawing.Point(34, 249);
+            this.lbl12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl12.Name = "lbl12";
-            this.lbl12.Size = new System.Drawing.Size(178, 34);
+            this.lbl12.Size = new System.Drawing.Size(134, 28);
             this.lbl12.TabIndex = 57;
             this.lbl12.Tag = "chan";
             this.lbl12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -481,9 +505,10 @@
             this.lbl10.BackColor = System.Drawing.SystemColors.Control;
             this.lbl10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl10.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl10.Location = new System.Drawing.Point(132, 420);
+            this.lbl10.Location = new System.Drawing.Point(99, 341);
+            this.lbl10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl10.Name = "lbl10";
-            this.lbl10.Size = new System.Drawing.Size(348, 34);
+            this.lbl10.Size = new System.Drawing.Size(262, 28);
             this.lbl10.TabIndex = 58;
             this.lbl10.Tag = "chan";
             this.lbl10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -494,9 +519,10 @@
             this.lbl13.BackColor = System.Drawing.SystemColors.Control;
             this.lbl13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl13.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl13.Location = new System.Drawing.Point(45, 650);
+            this.lbl13.Location = new System.Drawing.Point(34, 528);
+            this.lbl13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl13.Name = "lbl13";
-            this.lbl13.Size = new System.Drawing.Size(647, 34);
+            this.lbl13.Size = new System.Drawing.Size(486, 28);
             this.lbl13.TabIndex = 59;
             this.lbl13.Tag = "chan";
             this.lbl13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -507,9 +533,10 @@
             this.lbl25.BackColor = System.Drawing.SystemColors.Control;
             this.lbl25.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl25.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl25.Location = new System.Drawing.Point(655, 650);
+            this.lbl25.Location = new System.Drawing.Point(491, 528);
+            this.lbl25.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl25.Name = "lbl25";
-            this.lbl25.Size = new System.Drawing.Size(601, 34);
+            this.lbl25.Size = new System.Drawing.Size(451, 28);
             this.lbl25.TabIndex = 60;
             this.lbl25.Tag = "chan";
             this.lbl25.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -520,9 +547,10 @@
             this.label10.BackColor = System.Drawing.SystemColors.Control;
             this.label10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label10.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.label10.Location = new System.Drawing.Point(655, 34);
+            this.label10.Location = new System.Drawing.Point(491, 28);
+            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(601, 34);
+            this.label10.Size = new System.Drawing.Size(451, 28);
             this.label10.TabIndex = 62;
             this.label10.Tag = "chan";
             this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -533,18 +561,19 @@
             this.lbl1.BackColor = System.Drawing.SystemColors.Control;
             this.lbl1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbl1.Image = global::WindowsFormsApp1.Properties.Resources.co1;
-            this.lbl1.Location = new System.Drawing.Point(45, 34);
+            this.lbl1.Location = new System.Drawing.Point(34, 28);
+            this.lbl1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(647, 34);
+            this.lbl1.Size = new System.Drawing.Size(486, 28);
             this.lbl1.TabIndex = 63;
             this.lbl1.Tag = "chan";
             this.lbl1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // frmlevel3
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1296, 718);
+            this.ClientSize = new System.Drawing.Size(972, 583);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label4);
@@ -584,9 +613,11 @@
             this.Controls.Add(this.lbl25);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.lbl1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frmlevel3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmlevel3";
+            this.Load += new System.EventHandler(this.frmlevel3_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ptrb2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ptrb1)).EndInit();
             this.ResumeLayout(false);

@@ -42,3 +42,5 @@ C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmlevel2.resources
 C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmlevel3.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmlevel2.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmlevel3.resources

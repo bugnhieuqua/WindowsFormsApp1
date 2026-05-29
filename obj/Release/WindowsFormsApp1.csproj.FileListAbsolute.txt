@@ -30,3 +30,5 @@ C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.cs
 C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Release\WindowsF.A1EEDF9B.Up2Date
 C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
 C:\Users\nhuc9\OneDrive\Desktop\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmlevel2.resources
+D:\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmlevel3.resources
