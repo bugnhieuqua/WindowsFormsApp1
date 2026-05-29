@@ -65,6 +65,18 @@
     <Compile Include="frmlevel1.Designer.cs">
       <DependentUpon>frmlevel1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmlevel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlevel2.Designer.cs">
+      <DependentUpon>frmlevel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlevel3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlevel3.Designer.cs">
+      <DependentUpon>frmlevel3.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmload.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +96,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmlevel1.resx">
       <DependentUpon>frmlevel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlevel2.resx">
+      <DependentUpon>frmlevel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlevel3.resx">
+      <DependentUpon>frmlevel3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmload.resx">
       <DependentUpon>frmload.cs</DependentUpon>
@@ -141,6 +159,8 @@
     <None Include="Resources\abf0ced0f775b0c41b17b8e3de804fe0.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\#pixel #pixelart #пиксель #пиксельарт.jpg" />
+    <None Include="Resources\tải xuống.png" />
     <Content Include="SQL_UpdateDatabase.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
