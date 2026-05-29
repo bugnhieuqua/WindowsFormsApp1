@@ -105,7 +105,7 @@
             // 
             // ptrb2
             // 
-            this.ptrb2.Image = global::WindowsFormsApp1.Properties.Resources.tải_xuống;
+            this.ptrb2.Image = global::WindowsFormsApp1.Properties.Resources.img;
             this.ptrb2.Location = new System.Drawing.Point(878, 57);
             this.ptrb2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ptrb2.Name = "ptrb2";
