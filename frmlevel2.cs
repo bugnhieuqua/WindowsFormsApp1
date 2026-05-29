@@ -58,7 +58,7 @@ namespace WindowsFormsApp1
                     MessageBoxIcon.Question
                 );
 
-                if (questionResult == DialogResult.Yes)
+                if (questionResult == DialogResult.No)
                 {
                     CongDiem(20);
                     MessageBox.Show("Chính xác! Bạn được cộng 10 điểm!", "Thắng Level 2", MessageBoxButtons.OK, MessageBoxIcon.Information);
